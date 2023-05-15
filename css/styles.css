@@ -15,7 +15,7 @@ header{
 
 main{
     background-color: #FFF2F9;
-    height: 600px;
+    height: 550px;
 }
 
 section{
@@ -93,4 +93,9 @@ p{
     width: 200px;
     border-radius: 15px;
     height: 320px;
+}
+
+footer{
+    background-color: #FA4EAB;
+    height: 30px;
 }
